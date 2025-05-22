@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Install JSON server first then Cd to backend folder and run: `node server.js` to start the backend
+Open backend folder in a separate terminal and Install JSON server, then Cd to backend folder and run: `node server.js` to start the backend
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
